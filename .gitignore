@@ -1,0 +1,4 @@
+r1-chatbot/
+.gradio/
+temp.pdf
+chroma_db/
